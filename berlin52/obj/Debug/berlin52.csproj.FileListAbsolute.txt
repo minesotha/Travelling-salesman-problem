@@ -1,0 +1,6 @@
+c:\users\mtrzepacz\documents\visual studio 2015\Projects\berlin52\berlin52\bin\Debug\berlin52.exe.config
+c:\users\mtrzepacz\documents\visual studio 2015\Projects\berlin52\berlin52\bin\Debug\berlin52.exe
+c:\users\mtrzepacz\documents\visual studio 2015\Projects\berlin52\berlin52\bin\Debug\berlin52.pdb
+c:\users\mtrzepacz\documents\visual studio 2015\Projects\berlin52\berlin52\obj\Debug\berlin52.csprojResolveAssemblyReference.cache
+c:\users\mtrzepacz\documents\visual studio 2015\Projects\berlin52\berlin52\obj\Debug\berlin52.exe
+c:\users\mtrzepacz\documents\visual studio 2015\Projects\berlin52\berlin52\obj\Debug\berlin52.pdb
