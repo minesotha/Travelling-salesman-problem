@@ -3,4 +3,7 @@
   <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|AnyCPU'">
     <StartArguments>C://Users//mtrzepacz//Desktop//berlin/att48.txt 20 200000 0</StartArguments>
   </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|AnyCPU'">
+    <StartArguments>C://Users//mtrzepacz//Desktop//berlin/att48.txt 20 200000 0</StartArguments>
+  </PropertyGroup>
 </Project>
